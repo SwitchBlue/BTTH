@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab02_2</string>
+    <string name="num1_hint">Nhập số thứ nhất</string>
+    <string name="num2_hint">Nhập số thứ hai</string>
+    <string name="btn_sum_text">Tính tổng</string>
+    <string name="result_text">Kết quả: %1$d</string>
+    <string name="result_default">Kết quả:</string>
+</resources>
